@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aloma Huang</title>
-    <link href="https://alomahuang.github.io/publii/feed.xml" rel="self" />
-    <link href="https://alomahuang.github.io/publii" />
+    <link href="https://alomahuang.com/feed.xml" rel="self" />
+    <link href="https://alomahuang.com" />
     <updated>2025-02-10T22:20:06+01:00</updated>
     <author>
         <name>alomahunag</name>
     </author>
-    <id>https://alomahuang.github.io/publii</id>
+    <id>https://alomahuang.com</id>
 
     <entry>
         <title>test312</title>
         <author>
             <name>alomahunag</name>
         </author>
-        <link href="https://alomahuang.github.io/publii/test.html"/>
-        <id>https://alomahuang.github.io/publii/test.html</id>
+        <link href="https://alomahuang.com/test.html"/>
+        <id>https://alomahuang.com/test.html</id>
 
         <updated>2025-02-10T21:54:56+01:00</updated>
             <summary>
